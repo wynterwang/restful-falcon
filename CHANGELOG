@@ -1,0 +1,65 @@
+V0.0.13:
+1) Optimize prompt information for validation error;
+2) Remove Resource.allowed_operates field;
+3) Support UTC and time zone setting;
+4) Fixed other known issues.
+
+V0.0.12:
+1) Adjust code structure for utilities;
+2) Optimize prompt information for validation error;
+3) JSONEncoder supports Enum type;
+4) Fixed other known issues.
+
+V0.0.11:
+1) Add not filter at db layer;
+2) Add cipher utility;
+3) Modify logger setting and accessing methods.
+
+V0.0.10:
+1) Add UUIDStringConverter;
+2) Support router options setting;
+3) Optimize database mixin classes.
+
+V0.0.9:
+1) Add database error handler;
+2) Fixed other known issues.
+
+V0.0.8:
+1) Add resource isolation;
+2) Fixed other known issues.
+
+V0.0.7:
+1) Add user columns mixin;
+2) Resource create and update operates support fill specified fields automatically;
+3) Fixed other known issues.
+
+V0.0.6:
+1) Add some exception classes;
+2) Optimize exception prompt information;
+3) Add admin cli management;
+4) Optimize admin api management;
+5) Fixed other known issues.
+
+V0.0.5:
+1) Optimize validator implementation;
+2) Optimize context implementation;
+3) Add celery results application;
+4) Add admin management application;
+5) Fixed other known issues.
+
+V0.0.4:
+1) Modify application startup logic;
+2) Modify commands loading method;
+3) Add AppConfig load logic;
+4) Fixed other known issues.
+
+V0.0.3:
+1) Optimize filter implementation;
+2) Configuration file support import.
+
+V0.0.2:
+1) Modify the implementation of database layer;
+2) Add some filters (e.g., gt, lt, ge, le). 
+
+V0.0.1:
+1) Initialize project.
